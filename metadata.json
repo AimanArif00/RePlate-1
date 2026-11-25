@@ -1,0 +1,8 @@
+{
+  "name": "RePlate Campus",
+  "description": "Save Food. Save Money. Save Our Planet. A university food waste reduction marketplace connecting campus cafeterias and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
